@@ -1,2 +1,2 @@
 # Wind-Turbine-Power-Prediction
-To predict the energy generation of a wind turbine in Turkey, an energy model can be created using a multiple ridge regression (L2) function.
+To predict the energy generation of a wind turbine in Turkey, an energy model can be created using a multiple ridge regression (L2) function. The model is based on data collected from an operational turbine that generates power and is equipped with a SCADA system for monitoring and data collection. The data used for this purpose was collected at 10-minute intervals throughout the year 2018.
